@@ -68,7 +68,7 @@ const SchoolYear = () => {
     const raw = JSON.stringify({
       year: isYear,
       semester: isUpdate,
-      _id: "6214f3c231d5971f0a671030",
+      _id: "62001000b0c9c16690bd926d",
     });
 
     const PostRequest = {

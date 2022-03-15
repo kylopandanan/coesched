@@ -79,7 +79,7 @@ const Homepage = () => {
         </div>
         <div className="footer">
           <div className="schl-nm">
-            COESHED: Web-based Class Scheduling System for the College of
+            COESCHED: Web-based Class Scheduling System for the College of
             Engineering at Laguna State Polytechnic University - San Pablo City
             Campus
           </div>

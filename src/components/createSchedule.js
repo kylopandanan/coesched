@@ -232,7 +232,7 @@ const CreateSchedule = () => {
     if (isSelectedRoom === "Select") return setValidate(true);
     if (isSelectedDay === "Select") return setValidate(true);
     if (isSelectedTimeslot === "Select") return setValidate(true);
-    if (isSelectedSubject === "Select") return setValidate(true);
+    if (isSelectedSubject === "") return setValidate(true);
     if (isSelectedInstructor === "Select") return setValidate(true);
 
     setValidate(false);

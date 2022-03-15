@@ -312,7 +312,7 @@ const Subject = () => {
             </div>
           </div>
           {isExist ? (
-            <div className="errors">Subject is already listed.</div>
+            <div className="errors">Subject Code is already listed.</div>
           ) : undefined}
           {isError ? (
             <div className="errors">Don't leave this blank before saving</div>
